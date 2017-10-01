@@ -1,0 +1,15 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("stallman.org") {
+
+  body {
+    background-color: #FCF5DD;
+    font-family: Sans Serif;
+    color: #FF3838;
+  }
+
+  :link {
+    color: #FF9292;
+  }
+
+}
